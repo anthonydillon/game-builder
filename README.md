@@ -1,5 +1,5 @@
 # Game builder
-A HTML game builder for simple roll playing games based on system developed for [Gorillaz plastic beach](http://gorillaz.com/plasticbeach).
+A HTML game builder for simple roll playing games.
 
 ## Thing's that it will do:
 - Build an enviroment from an room/area feed
